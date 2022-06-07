@@ -1,0 +1,1 @@
+Using : https://anti-captcha.com/ and Selenium
